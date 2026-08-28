@@ -3,10 +3,7 @@
 > 🖥️ **Sysadmin** · Administrador de Sistemas Informáticos en Red (ASIR)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Hector20062006&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=Hector20062006&theme=github-dark&style=terminal" alt="Hector20062006 hero section" />
-  </picture>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Administrador+de+Sistemas+%7C+Sysadmin;Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes;Infraestructura+%26+Automatizaci%C3%B3n;Cloud+Architecting+%7C+Networking" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -19,12 +16,17 @@ Técnico Superior en **Administración de Sistemas Informáticos en Red (ASIR)**
 - 🌐 Español (nativo) · Inglés (intermedio) · Francés (básico)
 - 📫 **hrp7511@gmail.com**
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Hector20062006&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=Hector20062006&theme=github-dark&style=terminal" alt="Hector20062006 about section" />
-  </picture>
-</p>
+```bash
+hector20062006@github :~$ whoami
+Héctor Ramírez — Sysadmin / ASIR
+
+hector20062006@github :~$ cat bio.txt
+Administrador de Sistemas Informáticos en Red.
+Especializado en Linux, Cloud (AWS), Docker y Kubernetes.
+
+hector20062006@github :~$ uptime
+Always learning, always deploying 🚀
+```
 
 ---
 
