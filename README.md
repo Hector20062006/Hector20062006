@@ -51,7 +51,7 @@ hector20062006@github:~$ cat /etc/education.conf
     <td align="center" width="80">📅</td>
     <td><b>Administración de Sistemas Informáticos y Redes (ASIR)</b></td>
     <td>IES Ilíberis, Atarfe</td>
-    <td><img src="https://img.shields.io/badge/2026-58a6ff?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Completado-7ee787?style=flat-square" /></td>
   </tr>
   <tr>
     <td align="center" width="80">📅</td>
