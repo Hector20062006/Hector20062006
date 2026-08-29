@@ -65,22 +65,20 @@ Always learning, always deploying 🚀
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=cisco&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=internetexplorer&logoColor=white)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Hector20062006&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=Hector20062006&theme=github-dark&style=terminal" alt="Hector20062006 stack section" />
-  </picture>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Hector20062006&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=Hector20062006&theme=github-dark&style=terminal" alt="Hector20062006 stats section" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hector20062006&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hector20062006&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hector20062006&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 ---
@@ -88,10 +86,9 @@ Always learning, always deploying 🚀
 ## 🚀 Projects
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Hector20062006&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=Hector20062006&theme=github-dark&style=terminal" alt="Hector20062006 projects section" />
-  </picture>
+  <a href="https://github.com/Hector20062006?tab=repositories">
+    <img src="https://img.shields.io/badge/🔗_Ver_todos_mis_repositorios-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  </a>
 </p>
 
 ---
@@ -105,14 +102,17 @@ Always learning, always deploying 🚀
 ## 🌐 Connect
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Hector20062006&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=Hector20062006&theme=github-dark&style=terminal" alt="Hector20062006 social section" />
-  </picture>
+  <a href="mailto:hrp7511@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Hector20062006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hector20062006&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<p align="center">
   <i>⚡ "La infraestructura invisible es la mejor infraestructura." ⚡</i>
-</p>
+</p>
+
